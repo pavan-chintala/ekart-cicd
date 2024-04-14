@@ -1,2 +1,2 @@
 # ekart-cicd
-Spring Boot Shopping Cart Web App | The Ultimate CICD Corporate DevOps Pipeline Project
+Spring Boot Shopping Cart Web Application | The Ultimate CICD Corporate DevOps Pipeline Project
